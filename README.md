@@ -52,7 +52,8 @@ python inference.py --text "what's wrong?" -l te -s
 >>> ఏమి తప్పు?
 ```
 
-> The results are kinda hilarious but atleast it works
+> The results are kinda hilarious but atleast it works.
+> Here's the SOTA model if you really want good quality multilingual indic translation: [ai4bharat/indictrans2-indic-en-1B](https://huggingface.co/ai4bharat/indictrans2-indic-en-1B), it's even used by the govt. of India officially.
 
 
 ```
