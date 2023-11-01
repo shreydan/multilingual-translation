@@ -1,6 +1,6 @@
 # Multilingual Machine Translation with Transformers
 
-> This project was for learning purposes only. Hence, focused on getting decent results rather than an building alternative to existing multilingual models.
+> This project was for learning purposes only. Hence, focused on getting decent results rather than building an alternative to existing multilingual models.
 
 - Implemented a [7M parameter model](./model.py).
 - Trained a BERT style tokenizer.
